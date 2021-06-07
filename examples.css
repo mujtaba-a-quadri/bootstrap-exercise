@@ -1,0 +1,49 @@
+span {
+    color: red;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    size: 500px
+}
+
+[order] {
+    font-weight: bold;
+}
+
+[order="none"] {
+    text-align: center;
+}
+
+header h3 {
+    background: red;
+}
+
+ol > li {
+    margin-left: 50px;
+}
+
+ol, ul {
+    background: green;
+}
+
+div.image{
+    text-align: center;
+}
+
+td, th{
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid black;
+}
+
+button{
+    background-color: blue;
+    color: orange;
+    text-align: center;
+    align-items: center;
+    align-self: center;
+}
